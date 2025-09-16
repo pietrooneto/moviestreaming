@@ -1,1 +1,1 @@
-Progetto fatto con React con chiamate API e css (Esercitazione su react)
+Progetto fatto con React con chiamate API (Esercitazione su react)
